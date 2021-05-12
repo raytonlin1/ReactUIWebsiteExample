@@ -1,3 +1,5 @@
+Use 'npm install react' on the cli to run locally. It is deployed at https://silly-bell-a510f1.netlify.app/.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
