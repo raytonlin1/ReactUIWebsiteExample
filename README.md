@@ -1,4 +1,4 @@
-Use 'npm install react' on the cli to run locally. It is deployed at https://silly-bell-a510f1.netlify.app/.
+Use 'npm install react' on the cli to run locally. It is deployed at https://silly-bell-a510f1.netlify.app/. Uses Fetch API's as it includes my Star Wars API searcher (https://github.com/raytonlin1/StarWarsAPISearcherReact).
 
 # Getting Started with Create React App
 
